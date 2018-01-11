@@ -22,7 +22,7 @@ fi
 
 
 # 切换ruby版本
-rvm use 2.3.0
+rvm use 2.4.1
 
 fir p "$1"
 rvm use system
